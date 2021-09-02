@@ -5,3 +5,4 @@ SpeechRecognition
 gTTs
 Playsound
 Pyaudio
+Webbrowser
