@@ -7,7 +7,7 @@ import playsound as pl
 r1=sr.Recognizer()
 
     
-f=open('D:\My_Data\MCA\Just_Coding\Friday\convo.txt','a') 
+f=open(os.path.join(sys.path[0], "convo.txt"), "a")
 
 
 def talk(mytext):
