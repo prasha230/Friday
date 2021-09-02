@@ -1,0 +1,132 @@
+
+
+Prashant : hello
+Friday : Hello, Sir!
+Prashant : open YouTube
+Friday : Opening Youtube...
+Prashant : close now
+Friday : I am Closing, Good bye Sir.
+
+Prashant : hello
+Friday : Hello, Sir!
+Prashant : open YouTube
+Friday : Opening Youtube...
+Prashant : close now
+Friday : I am Closing, Good bye Sir.
+
+Prashant : hello 1
+Friday : Hello, Sir!
+Prashant : search on Amazon
+Friday : Say What you want to buy...
+Friday : searching...wireless earphones on amazon
+Prashant : wireless earphones
+Prashant : close now
+Friday : I am Closing, Good bye Sir.
+
+Prashant : hello
+Friday : Hello, Sir!
+Prashant : Google search
+Friday : Say What you want to search...
+
+User : hello my dear
+Friday : Hello, Sir!
+User : Google Google search
+Friday : Say What you want to search...
+Friday : searching...mobile phoneon Google
+User : please Ram
+Friday : None of the cases matches the commmand.
+User : close
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : open YouTube
+Friday : Opening Youtube...
+User : news now
+Friday : None of the cases matches the commmand.
+User : close now
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : open YouTube
+Friday : Opening Youtube...
+User : search on Google
+Friday : Say What you want to search...
+Friday : searching...University of Delhion Google
+User : open then closed now
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : video
+Friday : None of the cases matches the commmand.
+User : YouTube
+Friday : Opening Youtube...
+User : search on Amazon
+Friday : Say What you want to buy...
+Friday : searching...headphones on amazon
+User : headphones
+User : close close
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : email
+Friday : Say Message.
+Friday : Say the name of Recipient
+
+User : hello
+Friday : Hello, !
+User : email
+Friday : Say Message.
+Friday : Say the name of Recipient
+
+User : hello
+Friday : Hello, !
+User : open YouTube
+Friday : Opening Youtube...
+User : Google search
+Friday : Say What you want to search...
+Friday : searching...University of Delhion Google
+User : close now
+Friday : I am Closing, Good bye.
+
+User : hello hello
+
+User : hello brother
+Friday : Hello!
+User : Google
+Friday : None of the cases matches the commmand.
+User : open YouTube
+Friday : Opening Youtube...
+User : YouTube
+Friday : Opening Youtube...
+User : search on YouTube
+Friday : Say What you want to search...
+Friday : searching...latest Bollywood songson youtube
+User : latest Bollywood songs
+User : close now
+Friday : I am Closing, Good bye.
+
+User : hello Friday
+Friday : Hello!
+User : Sultan Ali Khan
+Friday : None of the cases matches the commmand.
+User : search on Amazon
+Friday : Say What you want to buy...
+Friday : searching...wireless headphones on amazon
+User : wireless headphones
+User : ok stop map
+Friday : I am Closing, Good bye.
+
+User : Friday
+User : open YouTube
+Friday : Opening Youtube...
+User : even close now
+Friday : I am Closing, Good bye.
+
+User : hello Friday
+Friday : Hello!
+User : close
+Friday : I am Closing, Good bye.
